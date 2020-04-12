@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mahmoudaosman/static/css/main.5ae536d3.chunk.css",
+    "main.js": "/mahmoudaosman/static/js/main.01432343.chunk.js",
+    "main.js.map": "/mahmoudaosman/static/js/main.01432343.chunk.js.map",
+    "runtime-main.js": "/mahmoudaosman/static/js/runtime-main.8de8455b.js",
+    "runtime-main.js.map": "/mahmoudaosman/static/js/runtime-main.8de8455b.js.map",
+    "static/js/2.b860645f.chunk.js": "/mahmoudaosman/static/js/2.b860645f.chunk.js",
+    "static/js/2.b860645f.chunk.js.map": "/mahmoudaosman/static/js/2.b860645f.chunk.js.map",
+    "index.html": "/mahmoudaosman/index.html",
+    "precache-manifest.4ae6f67cf10f20c7a4dbe80a9386734a.js": "/mahmoudaosman/precache-manifest.4ae6f67cf10f20c7a4dbe80a9386734a.js",
+    "service-worker.js": "/mahmoudaosman/service-worker.js",
+    "static/css/main.5ae536d3.chunk.css.map": "/mahmoudaosman/static/css/main.5ae536d3.chunk.css.map",
+    "static/js/2.b860645f.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.b860645f.chunk.js.LICENSE.txt",
+    "static/media/bachelor02.png": "/mahmoudaosman/static/media/bachelor02.8e454b00.png",
+    "static/media/ccv02.png": "/mahmoudaosman/static/media/ccv02.b044d021.png",
+    "static/media/certs02.png": "/mahmoudaosman/static/media/certs02.29c6344f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de8455b.js",
+    "static/js/2.b860645f.chunk.js",
+    "static/css/main.5ae536d3.chunk.css",
+    "static/js/main.01432343.chunk.js"
+  ]
+}
