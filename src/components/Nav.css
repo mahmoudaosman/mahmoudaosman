@@ -1,0 +1,7 @@
+#main_navigation .container-fluid {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+.bg-dark {
+  background-color: #2c5277 !important;
+}
