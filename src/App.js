@@ -4,6 +4,7 @@ import Nav from "./components/Nav";
 import "./App.css";
 import Carousel from "./components/Carousel";
 import About from "./components/About";
+import Tech from "./components/Tech";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Carousel />
         </div>
       </div>
+      <Tech />
 
       <div class="container"></div>
       <About />

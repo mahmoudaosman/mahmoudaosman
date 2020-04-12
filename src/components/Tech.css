@@ -1,0 +1,21 @@
+.built-with-react {
+  background-color: #f3f3f3;
+  display: block;
+  position: relative;
+  width: auto;
+  height: 200px;
+  padding: 15px 0px;
+  margin-bottom: 12px;
+}
+.built-with-react h2 {
+  font-size: 107px;
+  text-align: center;
+  line-height: 180px;
+  opacity: 0.3;
+}
+.built-with-react img {
+  height: 180px;
+  line-height: 180px;
+  display: block;
+  opacity: 0.3;
+}
