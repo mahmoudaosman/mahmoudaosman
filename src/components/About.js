@@ -3,6 +3,7 @@ import "./About.css";
 import bachelor02 from "../images/bachelor02.png";
 import ccv02 from "../images/ccv02.png";
 import certs02 from "../images/certs02.png";
+import mahmoud from "../images/mahmoud.jpg";
 
 export class About extends Component {
   render() {
@@ -17,11 +18,7 @@ export class About extends Component {
             <div className="row">
               <div className="col-md-4">
                 <div className="card" style={{ width: "100%" }}>
-                  <img
-                    src="http://netsansoftware.com/images/mahmoud.jpg"
-                    className="card-img-top"
-                    alt="Mahmoud"
-                  />
+                  <img src={mahmoud} className="card-img-top" alt="Mahmoud" />
                   <div className="card-body text-center">
                     <h2 className="card-title">Mahmoud Osman</h2>
                     <hr />
