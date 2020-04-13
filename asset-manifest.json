@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mahmoudaosman/static/css/main.c9b171a9.chunk.css",
+    "main.css": "/mahmoudaosman/static/css/main.2afbb683.chunk.css",
     "main.js": "/mahmoudaosman/static/js/main.ae226f15.chunk.js",
     "main.js.map": "/mahmoudaosman/static/js/main.ae226f15.chunk.js.map",
     "runtime-main.js": "/mahmoudaosman/static/js/runtime-main.8de8455b.js",
@@ -8,9 +8,9 @@
     "static/js/2.74f55801.chunk.js": "/mahmoudaosman/static/js/2.74f55801.chunk.js",
     "static/js/2.74f55801.chunk.js.map": "/mahmoudaosman/static/js/2.74f55801.chunk.js.map",
     "index.html": "/mahmoudaosman/index.html",
-    "precache-manifest.aae368245e325ff729f48661d4e1f1c3.js": "/mahmoudaosman/precache-manifest.aae368245e325ff729f48661d4e1f1c3.js",
+    "precache-manifest.0ac4dd1a299c423ecb06d260af0b19dc.js": "/mahmoudaosman/precache-manifest.0ac4dd1a299c423ecb06d260af0b19dc.js",
     "service-worker.js": "/mahmoudaosman/service-worker.js",
-    "static/css/main.c9b171a9.chunk.css.map": "/mahmoudaosman/static/css/main.c9b171a9.chunk.css.map",
+    "static/css/main.2afbb683.chunk.css.map": "/mahmoudaosman/static/css/main.2afbb683.chunk.css.map",
     "static/js/2.74f55801.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.74f55801.chunk.js.LICENSE.txt",
     "static/media/bachelor02.png": "/mahmoudaosman/static/media/bachelor02.8e454b00.png",
     "static/media/ccv02.png": "/mahmoudaosman/static/media/ccv02.b044d021.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.8de8455b.js",
     "static/js/2.74f55801.chunk.js",
-    "static/css/main.c9b171a9.chunk.css",
+    "static/css/main.2afbb683.chunk.css",
     "static/js/main.ae226f15.chunk.js"
   ]
 }
