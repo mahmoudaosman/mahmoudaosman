@@ -1,0 +1,51 @@
+.education {
+  width: auto;
+  height: auto;
+  /* background-color: tomato; */
+  background-color: #f5f5f5;
+  margin-top: -20px;
+  position: relative;
+  display: block;
+}
+
+.education .education-header {
+  transform: skew(-35deg);
+  -webkit-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+  /* background-color: #ec8876; */
+  background-color: #fff;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.education .education-header h1 {
+  -webkit-transform: skew(35deg);
+  -ms-transform: skew(35deg);
+  -moz-transform: skew(35deg);
+  -o-transform: skew(35deg);
+  text-align: center;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.education .bacholer,
+.education .associate,
+.education .certs {
+  background-color: #fff;
+
+  height: 100%;
+
+  position: relative;
+
+  display: block;
+  -o-box-shadow: 5px 6px 12px #cc94a8;
+  -ms-box-shadow: 5px 6px 12px #cc94a8;
+  box-shadow: 5px 6px 12px #cc94a8;
+}
+
+.education img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

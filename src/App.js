@@ -5,6 +5,7 @@ import "./App.css";
 import Carousel from "./components/Carousel";
 import About from "./components/About";
 import Tech from "./components/Tech";
+import Education from "./components/Education";
 
 function App() {
   return (
@@ -19,10 +20,17 @@ function App() {
           <Carousel />
         </div>
       </div>
-      <Tech />
+      <div>
+        <Tech />
+      </div>
 
-      <div class="container"></div>
-      <About />
+      <div>
+        <About />
+      </div>
+
+      <div>
+        <Education />
+      </div>
     </div>
   );
 }
