@@ -1,21 +1,40 @@
 .built-with-react {
   background-color: #f3f3f3;
-  display: block;
+  display: flex;
   position: relative;
   width: auto;
-  height: 200px;
-  padding: 15px 0px;
+  min-height: 350px;
   margin-bottom: 12px;
 }
+.built-with-react .built-with-items {
+  margin-top: 20px;
+}
 .built-with-react h2 {
-  font-size: 107px;
+  font-size: 50px;
   text-align: center;
   line-height: 180px;
+  color: #333;
+  text-transform: uppercase;
   opacity: 0.3;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
 .built-with-react img {
-  height: 180px;
   line-height: 180px;
   display: block;
   opacity: 0.3;
+  margin-top: 40px;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+.built-with-react img:hover,
+.built-with-react h2:hover {
+  opacity: 1;
+  cursor: pointer;
 }
