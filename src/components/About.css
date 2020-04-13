@@ -23,7 +23,7 @@ i {
   -moz-transform: skew(35deg);
   -o-transform: skew(35deg);
   text-align: center;
-  font-weight: bold;
+  font-weight: bold !important;
   text-transform: uppercase;
 }
 .about {
