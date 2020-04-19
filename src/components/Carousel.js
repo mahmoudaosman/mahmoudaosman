@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import "./Carousel.css";
+import slide_01 from "../images/slide_01.jpg";
+import slideer_02 from "../images/slideer_02.jpg";
+import slider_03 from "../images/slider_03.jpg";
 
 export class Carousel extends Component {
   render() {
@@ -19,24 +22,14 @@ export class Carousel extends Component {
 
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img
-                src="https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536__340.jpg"
-                alt="image one"
-                width="100%"
-                height={500}
-              />
+              <img src={slide_01} alt="image one" width="100%" height={500} />
+            </div>
+            <div className="carousel-item">
+              <img src={slideer_02} alt="image two" width="100%" height={500} />
             </div>
             <div className="carousel-item">
               <img
-                src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/05/a-developer-s-deep-dive-on-crawler-traps-causes-solutions-prevention-760x400.png"
-                alt="image two"
-                width="100%"
-                height={500}
-              />
-            </div>
-            <div className="carousel-item">
-              <img
-                src="https://p.ecopetit.cat/wpic/lpic/108-1082822_closeup-code-screen-web-design-technology-internet-computer.jpg"
+                src={slider_03}
                 alt="image three"
                 width="100%"
                 height={500}
