@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/mahmoudaosman/static/css/main.77507414.chunk.css",
-    "main.js": "/mahmoudaosman/static/js/main.e0c07f8a.chunk.js",
-    "main.js.map": "/mahmoudaosman/static/js/main.e0c07f8a.chunk.js.map",
+    "main.css": "/mahmoudaosman/static/css/main.f40a3285.chunk.css",
+    "main.js": "/mahmoudaosman/static/js/main.b403537c.chunk.js",
+    "main.js.map": "/mahmoudaosman/static/js/main.b403537c.chunk.js.map",
     "runtime-main.js": "/mahmoudaosman/static/js/runtime-main.8de8455b.js",
     "runtime-main.js.map": "/mahmoudaosman/static/js/runtime-main.8de8455b.js.map",
-    "static/js/2.4cd61b0c.chunk.js": "/mahmoudaosman/static/js/2.4cd61b0c.chunk.js",
-    "static/js/2.4cd61b0c.chunk.js.map": "/mahmoudaosman/static/js/2.4cd61b0c.chunk.js.map",
+    "static/js/2.95e1baf7.chunk.js": "/mahmoudaosman/static/js/2.95e1baf7.chunk.js",
+    "static/js/2.95e1baf7.chunk.js.map": "/mahmoudaosman/static/js/2.95e1baf7.chunk.js.map",
     "index.html": "/mahmoudaosman/index.html",
-    "precache-manifest.a2f6b9f9c7ef9ac1e4ba31d3f3e01db2.js": "/mahmoudaosman/precache-manifest.a2f6b9f9c7ef9ac1e4ba31d3f3e01db2.js",
+    "precache-manifest.f1b81b518241964721b30998f6836a2e.js": "/mahmoudaosman/precache-manifest.f1b81b518241964721b30998f6836a2e.js",
     "service-worker.js": "/mahmoudaosman/service-worker.js",
-    "static/css/main.77507414.chunk.css.map": "/mahmoudaosman/static/css/main.77507414.chunk.css.map",
-    "static/js/2.4cd61b0c.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.4cd61b0c.chunk.js.LICENSE.txt",
+    "static/css/main.f40a3285.chunk.css.map": "/mahmoudaosman/static/css/main.f40a3285.chunk.css.map",
+    "static/js/2.95e1baf7.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.95e1baf7.chunk.js.LICENSE.txt",
     "static/media/bachelor02.png": "/mahmoudaosman/static/media/bachelor02.8e454b00.png",
+    "static/media/Tech.css": "/mahmoudaosman/static/media/built-with.4bf088b1.png",
     "static/media/ccv02.png": "/mahmoudaosman/static/media/ccv02.b044d021.png",
     "static/media/certs02.png": "/mahmoudaosman/static/media/certs02.29c6344f.png",
     "static/media/mahmoud.jpg": "/mahmoudaosman/static/media/mahmoud.df70ef91.jpg",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8de8455b.js",
-    "static/js/2.4cd61b0c.chunk.js",
-    "static/css/main.77507414.chunk.css",
-    "static/js/main.e0c07f8a.chunk.js"
+    "static/js/2.95e1baf7.chunk.js",
+    "static/css/main.f40a3285.chunk.css",
+    "static/js/main.b403537c.chunk.js"
   ]
 }
