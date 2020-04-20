@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+import "./Nav.css";
 
 export class Nav extends Component {
   render() {
     return (
-      <div>
+      <div id="main-nav">
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
           <a className="navbar-brand" href="#">
             Mahmoud Osman
@@ -41,18 +42,27 @@ export class Nav extends Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Dropdown
+                  More
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a className="dropdown-item" href="#">
-                    Action
-                  </a>
-                  <a className="dropdown-item" href="#">
-                    Another action
+                    Portfolio
                   </a>
                   <div className="dropdown-divider" />
                   <a className="dropdown-item" href="#">
-                    Something else here
+                    Techknowlege
+                  </a>
+                  <div className="dropdown-divider" />
+                  <a className="dropdown-item" href="#">
+                    Socio-work
+                  </a>
+                  <div className="dropdown-divider" />
+                  <a className="dropdown-item" href="#">
+                    Design
+                  </a>
+                  <div className="dropdown-divider" />
+                  <a className="dropdown-item" href="#">
+                    Skills
                   </a>
                 </div>
               </li>

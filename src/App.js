@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <div>
-        <div id="main_navigation">
+        <div id="main_nav">
           <Nav />
           <br />
         </div>

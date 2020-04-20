@@ -1,7 +1,23 @@
-#main_navigation .container-fluid {
+#main_nav .container-fluid {
   padding-right: 0px !important;
   padding-left: 0px !important;
 }
-.bg-dark {
-  background-color: #2c5277 !important;
+#main_nav .bg-dark {
+  background-color: #f4783d !important;
+}
+#main_nav .dropdown-menu.show {
+  display: block;
+  background-color: #f68241;
+  width: 200px;
+}
+#main_nav .navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-weight: bold;
+}
+#main_nav .dropdown-item {
+  color: #ffffff;
+}
+#main_nav .dropdown-item:focus,
+.dropdown-item:hover {
+  background-color: #e47946;
 }
