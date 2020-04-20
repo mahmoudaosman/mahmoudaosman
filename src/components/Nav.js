@@ -31,7 +31,7 @@ export class Nav extends Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="About">
+                <a className="nav-link" href="#">
                   About
                 </a>
               </li>
