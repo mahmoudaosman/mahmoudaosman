@@ -6,7 +6,10 @@ export class Nav extends Component {
     return (
       <div id="main-nav">
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
-          <a className="navbar-brand" href="#">
+          <a
+            className="navbar-brand"
+            href="https://mahmoudaosman.github.io/mahmoudaosman"
+          >
             Mahmoud Osman
           </a>
           <button
