@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/mahmoudaosman/static/css/main.a6bded4c.chunk.css",
-    "main.js": "/mahmoudaosman/static/js/main.579d3f15.chunk.js",
-    "main.js.map": "/mahmoudaosman/static/js/main.579d3f15.chunk.js.map",
+    "main.css": "/mahmoudaosman/static/css/main.6922496b.chunk.css",
+    "main.js": "/mahmoudaosman/static/js/main.32a614e8.chunk.js",
+    "main.js.map": "/mahmoudaosman/static/js/main.32a614e8.chunk.js.map",
     "runtime-main.js": "/mahmoudaosman/static/js/runtime-main.8de8455b.js",
     "runtime-main.js.map": "/mahmoudaosman/static/js/runtime-main.8de8455b.js.map",
     "static/css/2.de424728.chunk.css": "/mahmoudaosman/static/css/2.de424728.chunk.css",
-    "static/js/2.53234536.chunk.js": "/mahmoudaosman/static/js/2.53234536.chunk.js",
-    "static/js/2.53234536.chunk.js.map": "/mahmoudaosman/static/js/2.53234536.chunk.js.map",
+    "static/js/2.ad1d6ff7.chunk.js": "/mahmoudaosman/static/js/2.ad1d6ff7.chunk.js",
+    "static/js/2.ad1d6ff7.chunk.js.map": "/mahmoudaosman/static/js/2.ad1d6ff7.chunk.js.map",
     "index.html": "/mahmoudaosman/index.html",
-    "precache-manifest.b9b542fe6cc875fb8786e6c7176b7ed9.js": "/mahmoudaosman/precache-manifest.b9b542fe6cc875fb8786e6c7176b7ed9.js",
+    "precache-manifest.812121b0e945235a9e9a1fe3739966ab.js": "/mahmoudaosman/precache-manifest.812121b0e945235a9e9a1fe3739966ab.js",
     "service-worker.js": "/mahmoudaosman/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/mahmoudaosman/static/css/2.de424728.chunk.css.map",
-    "static/css/main.a6bded4c.chunk.css.map": "/mahmoudaosman/static/css/main.a6bded4c.chunk.css.map",
-    "static/js/2.53234536.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.53234536.chunk.js.LICENSE.txt",
+    "static/css/main.6922496b.chunk.css.map": "/mahmoudaosman/static/css/main.6922496b.chunk.css.map",
+    "static/js/2.ad1d6ff7.chunk.js.LICENSE.txt": "/mahmoudaosman/static/js/2.ad1d6ff7.chunk.js.LICENSE.txt",
     "static/media/bachelor02.png": "/mahmoudaosman/static/media/bachelor02.8e454b00.png",
-    "static/media/Tech.css": "/mahmoudaosman/static/media/built-with.4bf088b1.png",
+    "static/media/built_with.png": "/mahmoudaosman/static/media/built_with.4bf088b1.png",
     "static/media/ccv02.png": "/mahmoudaosman/static/media/ccv02.b044d021.png",
     "static/media/certs02.png": "/mahmoudaosman/static/media/certs02.29c6344f.png",
     "static/media/mahmoud.jpg": "/mahmoudaosman/static/media/mahmoud.df70ef91.jpg",
-    "static/media/react_logo.png": "/mahmoudaosman/static/media/react_logo.12b9ed38.png",
     "static/media/slide_01.jpg": "/mahmoudaosman/static/media/slide_01.336dabad.jpg",
     "static/media/slideer_02.jpg": "/mahmoudaosman/static/media/slideer_02.5c525d61.jpg",
     "static/media/slider_03.jpg": "/mahmoudaosman/static/media/slider_03.6caf6619.jpg"
@@ -27,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.8de8455b.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.53234536.chunk.js",
-    "static/css/main.a6bded4c.chunk.css",
-    "static/js/main.579d3f15.chunk.js"
+    "static/js/2.ad1d6ff7.chunk.js",
+    "static/css/main.6922496b.chunk.css",
+    "static/js/main.32a614e8.chunk.js"
   ]
 }
