@@ -6,27 +6,39 @@
   padding-bottom: 20px;
   position: relative;
   display: block;
+  overflow-x: hidden;
 }
 
 .education .education-header {
+  width: 138%;
   transform: skew(-35deg);
   -webkit-transform: skew(-35deg);
   -ms-transform: skew(-35deg);
   -moz-transform: skew(-35deg);
   -o-transform: skew(-35deg);
-  /* background-color: #ec8876; */
-  background-color: #fff;
+  background-color: #f4783d;
   overflow: hidden;
   margin-bottom: 20px;
+  margin-left: 18px;
 }
 .education .education-header h1 {
   -webkit-transform: skew(35deg);
+
   -ms-transform: skew(35deg);
+
   -moz-transform: skew(35deg);
+
   -o-transform: skew(35deg);
+
   text-align: center;
-  color: #666;
+
+  color: #ffffff;
+
   text-transform: uppercase;
+
+  margin-left: 18px;
+
+  float: left;
 }
 
 .education .bacholer,

@@ -22,17 +22,30 @@ export class Carousel extends Component {
 
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src={slide_01} alt="image one" width="100%" height={500} />
+              <img
+                src={slide_01}
+                alt="image one"
+                // width="100%"
+                // height={500}
+                className="img-fluid"
+              />
             </div>
             <div className="carousel-item">
-              <img src={slideer_02} alt="image two" width="100%" height={500} />
+              <img
+                src={slideer_02}
+                alt="image two"
+                // width="100%"
+                // height={500}
+                className="img-fluid"
+              />
             </div>
             <div className="carousel-item">
               <img
                 src={slider_03}
                 alt="image three"
-                width="100%"
-                height={500}
+                // width="100%"
+                // height={500}
+                className="img-fluid"
               />
             </div>
           </div>

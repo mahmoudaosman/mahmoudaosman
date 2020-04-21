@@ -1,11 +1,5 @@
-.built-with-react {
-  width: auto;
-  height: 155px;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-image: url(../images/built-with.png);
+.built-with-react .built-with-items img {
+  width: 100%;
+  height: 100%;
   display: block;
-  overflow: hidden;
-  position: relative;
 }

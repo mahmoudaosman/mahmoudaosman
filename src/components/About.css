@@ -3,18 +3,19 @@
 body {
   height: 3000px;
 }
-i {
-  color: rgb(0, 0, 0);
-}
+
 .about-me {
   transform: skew(-35deg);
   -webkit-transform: skew(-35deg);
   -ms-transform: skew(-35deg);
   -moz-transform: skew(-35deg);
   -o-transform: skew(-35deg);
-  background-color: #f5f5f5;
+  background-color: #f4783d;
   overflow: hidden;
   margin-bottom: 20px;
+  margin-left: -112%;
+
+  width: 138%;
 }
 .about-me h1 {
   -webkit-transform: skew(35deg);
@@ -24,8 +25,25 @@ i {
   text-align: center;
   font-weight: bold !important;
   text-transform: uppercase;
-  color: #666;
+  color: #ffffff;
+  margin-right: -83%;
+
+  width: 175%;
 }
+@media only screen and (max-width: 988px) {
+  .about-me {
+    margin-left: -112%;
+
+    width: 170%;
+  }
+
+  .about-me h1 {
+    margin-right: -83%;
+
+    width: 158%;
+  }
+}
+
 .about {
   background-color: #e3e6fb;
   font-family: "Exo 2", sans-serif;

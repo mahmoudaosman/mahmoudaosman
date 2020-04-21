@@ -10,11 +10,12 @@
   -ms-transform: skew(-35deg);
   -moz-transform: skew(-35deg);
   -o-transform: skew(-35deg);
-  background-color: #fff;
+  background-color: #f4783d;
   overflow: hidden;
   margin-bottom: 20px;
   margin-left: -124%;
   width: 138%;
+  margin-top: -22px;
 }
 .main-skills .skill-header h1 {
   margin-left: 90%;
@@ -24,6 +25,7 @@
   -ms-transform: skew(35deg);
   -moz-transform: skew(35deg);
   -o-transform: skew(35deg);
+  color: #fff;
 }
 
 @media only screen and (max-width: 988px) {
@@ -43,6 +45,11 @@
 .main-skills .progress {
   background-color: #ffffff;
   border-radius: 50px;
+  box-shadow: 3px 5px 7px #ccc;
+  -webkit-box-shadow: 3px 5px 7px #ccc;
+  -moz-box-shadow: 3px 5px 7px #ccc;
+  -ms-box-shadow: 3px 5px 7px #ccc;
+  -o-box-shadow: 3px 5px 7px #ccc;
 }
 .main-skills .progress-bar {
   border-radius: 50px;
