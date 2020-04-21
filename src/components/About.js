@@ -39,14 +39,13 @@ export class About extends Component {
               <div className="col-md-8">
                 <div className="about-info">
                   <p>
-                    <b>Mahmoud Osman </b> is an entrepreneur, software/web
-                    designer and developer.
-                    <br />{" "}
+                    <b>Mahmoud Osman </b> is an entrepreneur and software
+                    developer.
+                    <br />
                   </p>
                   <p>
                     He studied at{" "}
                     <a href="http://www.champlain.edu/" target="_blank">
-                      {" "}
                       Champlain College
                     </a>
                     , and he has a bachelor's degree of computer science
@@ -54,14 +53,13 @@ export class About extends Component {
                   </p>
                   <p>
                     On the other side, he has an associate degree of Computer
-                    Systems Management from{" "}
+                    Systems Management from
                     <a href="http://ccv.edu/" target="_blank">
-                      {" "}
                       Community College of Vermont
                     </a>
                     . Additionally, he also has three additional web
-                    certificates, <i>a web design</i>, <i>web programming</i>,{" "}
-                    <i>and php programming.</i>{" "}
+                    certificates, <i>a web design</i>, <i>web programming</i>,
+                    <i>and php programming.</i>
                   </p>
                   <p>
                     Moreover, he is a new starter and an entrepreneur of web
@@ -71,7 +69,6 @@ export class About extends Component {
                     believes that web technology can make a change.
                   </p>
                   <p>
-                    {" "}
                     Indeed, he is a web programmer and uses multiple web
                     programming technologies such as HTML5, CSS3, JavaScript,
                     Bootstrap, PHP, Sass, and JQuery. Also, he uses other
