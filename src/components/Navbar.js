@@ -12,16 +12,14 @@ const NavBar = () => {
         bg="danger"
         variant="dark"
       >
-        <ReactBootStrap.Navbar.Brand href="/">
+        <ReactBootStrap.Navbar.Brand href="/mahmoudaosman">
           Mahmoud Osman
         </ReactBootStrap.Navbar.Brand>
         <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
           <ReactBootStrap.Nav className="mr-auto">
-            <Link to="http://mahmoudaosman.github.io/mahmoudaosman">
-              <ReactBootStrap.Nav.Link href="http://mahmoudaosman.github.io/mahmoudaosman">
-                Home
-              </ReactBootStrap.Nav.Link>
+            <Link to="/">
+              <ReactBootStrap.Nav.Link href="/">Home</ReactBootStrap.Nav.Link>
             </Link>
             <Link to="/about">
               <ReactBootStrap.Nav.Link href="/about">
