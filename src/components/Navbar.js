@@ -12,7 +12,7 @@ const NavBar = () => {
         bg="danger"
         variant="dark"
       >
-        <ReactBootStrap.Navbar.Brand href="/">
+        <ReactBootStrap.Navbar.Brand href="#">
           Mahmoud Osman
         </ReactBootStrap.Navbar.Brand>
         <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
