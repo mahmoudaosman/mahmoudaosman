@@ -1,0 +1,63 @@
+.education {
+  width: auto;
+  height: auto;
+  /* background-color: #e8aa4d; */
+  background-color: #c1cee3;
+  padding-bottom: 20px;
+  position: relative;
+  display: block;
+  overflow-x: hidden;
+}
+
+.education .education-header {
+  width: 138%;
+  transform: skew(-35deg);
+  -webkit-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+  background-color: #f4783d;
+  overflow: hidden;
+  margin-bottom: 20px;
+  margin-left: 18px;
+}
+.education .education-header h1 {
+  -webkit-transform: skew(35deg);
+
+  -ms-transform: skew(35deg);
+
+  -moz-transform: skew(35deg);
+
+  -o-transform: skew(35deg);
+
+  text-align: center;
+
+  color: #ffffff;
+
+  text-transform: uppercase;
+
+  margin-left: 18px;
+
+  float: left;
+}
+
+.education .bacholer,
+.education .associate,
+.education .certs {
+  background-color: #fff;
+
+  height: 100%;
+
+  position: relative;
+
+  display: block;
+  -o-box-shadow: 5px 6px 12px #cc94a8;
+  -ms-box-shadow: 5px 6px 12px #cc94a8;
+  box-shadow: 5px 6px 12px #cc94a8;
+}
+
+.education img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

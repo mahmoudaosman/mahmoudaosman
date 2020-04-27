@@ -1,0 +1,17 @@
+.footer {
+  background-color: #272727;
+  color: #a9a1a1;
+}
+.footer .footer-copyright {
+  background-color: #000;
+}
+.footer .three-columns {
+  overflow: hidden;
+}
+.footer .three-column li {
+  width: 33.3333%;
+  float: left;
+  padding: 3px 0;
+  margin-bottom: 45px;
+  font-size: 14px;
+}

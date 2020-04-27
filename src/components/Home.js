@@ -1,15 +1,13 @@
-import React, { Component } from 'react'
+import React from "react";
+import Carousel from "./Carousel";
+import "./Home.css";
 
-export class Home extends Component {
-    render() {
-        return (
-            <div className="home-page">
+const Feature = () => {
+  return (
+    <div className="home-page">
+      <Carousel />
+    </div>
+  );
+};
 
-        <h1>Home page - Welcome to my website</h1>
-
-      </div>
-        )
-    }
-}
-
-export default Home
+export default Feature;

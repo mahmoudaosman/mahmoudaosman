@@ -1,0 +1,16 @@
+.contact_form {
+  background-color: #666;
+  width: auto;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(../images/contact-us.png);
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 40px;
+}
+.contact_form .form-item {
+  background-color: #fff;
+}

@@ -21,3 +21,16 @@
 .dropdown-item:hover {
   background-color: #e47946;
 }
+
+.navbar-brand img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #fb9767 !important;
+}

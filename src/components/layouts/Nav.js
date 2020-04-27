@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import "./Nav.css";
+import mahmoud from "../images/mahmoud.jpg";
+import { Link } from "react-router-dom";
 
 export class Nav extends Component {
   render() {
@@ -10,7 +12,7 @@ export class Nav extends Component {
             className="navbar-brand"
             href="https://mahmoudaosman.github.io/mahmoudaosman"
           >
-            Mahmoud Osman
+            <img src={mahmoud} className="img-fluid" />
           </a>
           <button
             className="navbar-toggler"
@@ -70,7 +72,7 @@ export class Nav extends Component {
                 </div>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">
+                <a className="nav-link" href="components/contact">
                   Contact
                 </a>
               </li>

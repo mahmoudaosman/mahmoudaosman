@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,300;1,100&display=swap");
+
+body {
+  height: 3000px;
+}
+
+.about-me {
+  transform: skew(-35deg);
+  -webkit-transform: skew(-35deg);
+  -ms-transform: skew(-35deg);
+  -moz-transform: skew(-35deg);
+  -o-transform: skew(-35deg);
+  background-color: #f4783d;
+  overflow: hidden;
+  margin-bottom: 20px;
+  margin-left: -112%;
+
+  width: 138%;
+}
+.about-me h1 {
+  -webkit-transform: skew(35deg);
+  -ms-transform: skew(35deg);
+  -moz-transform: skew(35deg);
+  -o-transform: skew(35deg);
+  text-align: center;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-right: -83%;
+
+  width: 175%;
+}
+@media only screen and (max-width: 988px) {
+  .about-me {
+    margin-left: -112%;
+
+    width: 170%;
+  }
+
+  .about-me h1 {
+    margin-right: -83%;
+
+    width: 158%;
+  }
+}
+
+.about {
+  background-color: #e3e6fb;
+  font-family: "Exo 2", sans-serif;
+  padding-bottom: 20px;
+}
+
+.about .card {
+  box-shadow: 5px 6px 12px #cc94a8;
+
+  -webkit-box-shadow: 5px 6px 12px #cc94a8;
+
+  -moz-box-shadow: 5px 6px 12px #cc94a8;
+
+  -o-box-shadow: 5px 6px 12px #cc94a8;
+
+  -ms-box-shadow: 5px 6px 12px #cc94a8;
+
+  box-shadow: 5px 6px 12px #cc94a8;
+
+  border-radius: 0px;
+}
+
+.about .card img {
+  width: 150px;
+
+  height: 150px;
+
+  margin: auto;
+
+  border-radius: 50%;
+}
+
+.about .card h2,
+.about .card h4 {
+  font-family: "Exo 2", sans-serif;
+}
+
+.about .about-info {
+  background-color: #fff;
+
+  height: 100%;
+
+  padding: 20px;
+
+  -webkit-box-shadow: 5px 6px 12px #cc94a8;
+
+  -moz-box-shadow: 5px 6px 12px #cc94a8;
+
+  -o-box-shadow: 5px 6px 12px #cc94a8;
+
+  -ms-box-shadow: 5px 6px 12px #cc94a8;
+
+  box-shadow: 5px 6px 12px #cc94a8;
+}
+
+.about .about-info h2 {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-weight: bold;
+
+  font-family: "Exo 2", sans-serif;
+
+  text-transform: uppercase;
+}
+
+.about .about-info h2:before {
+  content: "";
+
+  border-bottom: 1px solid #cf4b7c;
+
+  border-width: 4px;
+
+  width: 148px;
+
+  position: absolute;
+
+  top: 58px;
+}
