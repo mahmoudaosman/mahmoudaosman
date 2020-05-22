@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,300;1,100&display=swap");
 
 body {
-  height: 3000px;
+  /* height: 3000px; */
+  height: auto;
 }
 
 .about-me {

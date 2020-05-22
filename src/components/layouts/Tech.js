@@ -9,7 +9,7 @@ export class Tech extends Component {
       <div className="built-with-react">
         <div className="container">
           <div className="built-with-items">
-            <img src={built_with} className="img-fluid" />
+            <img src={built_with} className="img-fluid" alt="{built_with}" />
           </div>
         </div>
       </div>

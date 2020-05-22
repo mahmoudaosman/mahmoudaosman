@@ -70,8 +70,9 @@ export class About extends Component {
                   </p>
                   <p>
                     Indeed, he is a web programmer and uses multiple web
-                    programming technologies such as HTML5, CSS3, JavaScript,
-                    Bootstrap, PHP, Sass, and JQuery. Also, he uses other
+                    programming technologies such as Nodejs, Express js,
+                    Mongodb, HTML5/CSS3/Sass, JavaScript/jQuery, Java, Spring
+                    Booot, Bootstrap and PHP/Laravel,. Also, he uses other
                     Content Management Systems or CMS technologies such as
                     Drupal and WordPress and builds with responsive and database
                     driven applications.
